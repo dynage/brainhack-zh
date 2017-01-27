@@ -42,8 +42,8 @@ If you like to learn more about the concept of Brainhack see
 
 
 ## Information
-The admission is free but
-[**registration is required**](https://docs.google.com/forms/d/e/1FAIpQLSdCwKayra9Ga8loHJ01buVHSazjhVpC3jiwKqZZvel29zl2Gw/viewform).
+The admission is free but **registration is required**
+[(here)](https://docs.google.com/forms/d/e/1FAIpQLSdCwKayra9Ga8loHJ01buVHSazjhVpC3jiwKqZZvel29zl2Gw/viewform).
 
 The event will be held at the
 **University Research Priority Program Dynamics of Healthy Aging at UZH**,
