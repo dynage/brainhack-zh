@@ -12,7 +12,7 @@ the globe will simultaneously hold Brainhack events.
 
 The Zurich Brainhack will focus on introductory hands-on tutorials
 on tools for (neuroimaging) data analysis to promote reproducible
-science. Furthermore, the event aims to connect the Zurich
+science. Furthermore, the event aims to connect the Swiss 
 neuroscience community by providing a space for open discussion.
 
 
