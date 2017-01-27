@@ -3,7 +3,7 @@
 
 We are happy to announce the first Brainhack in Zurich.
 It will be held on March 2 & 3 2017 as part of
-[Brainhack Global](events.brainhack.org/global2017/).
+[Brainhack Global](http://events.brainhack.org/global2017/).
 
 Brainhack workshops offer an open platform for
 brain-imaging-scientists of all levels of experience to meet and
@@ -66,4 +66,3 @@ Amelie Haugg, Franz Liem, Jessica Oschwald, Frank Scharnowski, Ronald Sladky, Vi
 
 ## Support by
 ![](images/dynage_logo.png)
-
