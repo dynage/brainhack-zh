@@ -24,7 +24,7 @@ If you like to learn more about the concept of Brainhack see
 | When          | Who                             | What                                                                                                    |
 |---------------|---------------------------------|---------------------------------------------------------------------------------------------------------|
 | **March 2**   |                                 |                                                                                                         |
-| 9:30 - 10:15  |                                 | Introduction to Brainhack                                                                               |
+| 9:30 - 10:15  |                                 | Meet-and-greet and introduction to Brainhack                                                                               |
 | 10:15 - 12:00 | Riccardo Murri                  | Tutorial: Python Introduction                                                                           |
 | 12:00 - 12:30 | Riccardo Murri, Tyanko Aleksiev | Science Cloud Introduction                                                                              |
 |               |                                 |                                                                                                         |
