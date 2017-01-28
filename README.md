@@ -28,11 +28,11 @@ If you like to learn more about the concept of Brainhack see
 | 10:15 - 12:00 | Riccardo Murri                  | Tutorial: Python Introduction                                                                           |
 | 12:00 - 12:30 | Riccardo Murri, Tyanko Aleksiev | Science Cloud Introduction                                                                              |
 |               |                                 |                                                                                                         |
-| 13:30 - 14:30 | Jessica Oschwald <br>Franz Liem | Software virtualization:<br>Part 1: NeuroDebian <br>Part 2: BIDS Apps and BIDS Apps on the Science Cloud|
+| 13:30 - 14:30 | Jessica Oschwald, Franz Liem | Software virtualization:<br>Part 1: NeuroDebian <br>Part 2: BIDS Apps and BIDS Apps on the Science Cloud|
 | 15:00 - 17:00 | Nicolas Langer, Andreas Pedroni | Tutorial: EEG toolbox                                                                                   |
 |               |                                 |                                                                                                         |
 | **March 3**   |                                 |                                                                                                         |
-| 10:00-11:30   | Ronald Sladky <br>Franz Liem                  | Tutorial: Visualization<br>Part 1: sweetView: a simple, quick, and powerful viewer for MRI images and SPM results <br> Part 2: Plotting brain images with nilearn |
+| 10:00-11:30   | Ronald Sladky, Franz Liem                  | Tutorial: Visualization<br>Part 1: sweetView: a simple, quick, and powerful viewer for MRI images and SPM results <br> Part 2: Plotting brain images with nilearn |
 | 11:30-12:00   | Claudio Tessone                 | Ignite talk: Networks                                                                                   |
 |               |                                 |                                                                                                         |
 | 13:00-15:00   | Michael Notter                  | Tutorial: Nipype - neuroimaging pipelines in python                                                     |
