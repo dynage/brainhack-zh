@@ -1,4 +1,4 @@
-![](images/brainhackorg_logo.png)
+![](images/Brainhack_Zurich_2017.png)
 # First Brainhack Zurich <br/> Open tools for reproducible neuroscience <br/> March 2 & 3, 2017
 
 We are happy to announce the first Brainhack in Zurich.
@@ -29,7 +29,7 @@ If you like to learn more about the concept of Brainhack see
 | 12:00 - 12:30 | Riccardo Murri, Tyanko Aleksiev | Science Cloud Introduction                                                                              |
 |               |                                 |                                                                                                         |
 | 13:30 - 14:30 | Jessica Oschwald, Franz Liem | Software virtualization:<br>Part 1: NeuroDebian <br>Part 2: BIDS Apps and BIDS Apps on the Science Cloud|
-| 15:00 - 17:00 | Nicolas Langer, Andreas Pedroni | Tutorial: EEG toolbox                                                                                   |
+| 15:00 - 17:00 | Nicolas Langer, Andreas Pedroni | Tutorial: Automagic EEG toolbox                                                                                   |
 |               |                                 |                                                                                                         |
 | **March 3**   |                                 |                                                                                                         |
 | 10:00-11:30   | Ronald Sladky, Franz Liem                  | Tutorial: Visualization<br>Part 1: sweetView: a simple, quick, and powerful viewer for MRI images and SPM results <br> Part 2: Plotting brain images with nilearn |
@@ -40,7 +40,7 @@ If you like to learn more about the concept of Brainhack see
 
 
 ## Information
-The admission is free but **registration is required**
+The admission is free but **registration until February 24 is required**
 [(here)](https://docs.google.com/forms/d/e/1FAIpQLSdCwKayra9Ga8loHJ01buVHSazjhVpC3jiwKqZZvel29zl2Gw/viewform).
 
 The event will be held at the
