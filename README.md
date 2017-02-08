@@ -63,4 +63,5 @@ Amelie Haugg, Franz Liem, Jessica Oschwald, Frank Scharnowski, Ronald Sladky, Vi
 
 
 ## Support by
-![](images/LogoUFSPneuVektorenEnglish.eps)
+![](images/dynage_logo.png)
+
