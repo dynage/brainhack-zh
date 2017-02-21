@@ -12,7 +12,7 @@ the globe will simultaneously hold Brainhack events.
 
 The Zurich Brainhack will focus on introductory hands-on tutorials
 on tools for (neuroimaging) data analysis to promote reproducible
-science. Furthermore, the event aims to connect the Swiss 
+science. Furthermore, the event aims to connect the Swiss
 neuroscience community by providing a space for open discussion.
 
 
@@ -46,8 +46,7 @@ The admission is free but **registration until February 24 is required**
 
 The event will be held at the
 **University Research Priority Program Dynamics of Healthy Aging at UZH**,
-[Andreasstrasse 15, 8050 Zurich](https://www.google.ch/maps/place/Soziologisches+Institut,+Andreasstrasse+15,+8050+Z%C3%BCrich/@47.4132215,8.5465849,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a83794f152b:0x41c87c334ba6c021!8m2!3d47.4132179!4d8.5487736)
-, 4th floor.
+[Andreasstrasse 15, 8050 Zurich](https://www.google.ch/maps/place/Soziologisches+Institut,+Andreasstrasse+15,+8050+Z%C3%BCrich/@47.4132215,8.5465849,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a83794f152b:0x41c87c334ba6c021!8m2!3d47.4132179!4d8.5487736), 4th floor.
 
 
 
@@ -65,4 +64,3 @@ Amelie Haugg, Franz Liem, Jessica Oschwald, Frank Scharnowski, Ronald Sladky, Vi
 
 ## Support by
 ![](images/dynage_logo.png)
-
