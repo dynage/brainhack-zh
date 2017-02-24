@@ -34,7 +34,7 @@ If you like to learn more about the concept of Brainhack see
 | **March 3**   |                                 |                                                                                                         |
 | 10:00-10:30   | Ronald Sladky, Franz Liem                  | Tutorial: Visualization<br>Part 1: sweetView: a simple, quick, and powerful viewer for MRI images and SPM results <br> Part 2: Plotting brain images with nilearn |
 | 10:30-11:00   | Claudio Tessone                 | Ignite talk: Networks                                                                                   |
-| 11:00-12:00   | | Community hour: talks and discussions featuring you |
+| 11:00-12:00   | | Community hour/unconference session: talks and discussions featuring you |
 |               |                                 |                                                                                                         |
 | 13:00-15:00   | Michael Notter                  | Tutorial: Nipype - neuroimaging pipelines in python                                                     |
 | 15:30-17:30   | Thomas Bolton et al.            | Tutorial: Dynamic functional connectivity                                                               |
