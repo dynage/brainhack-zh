@@ -26,9 +26,9 @@ If you like to learn more about the concept of Brainhack see
 | **March 2**   |                                 |                                                                                                         |
 | 9:30 - 10:15  |                                 | Meet-and-greet and introduction to Brainhack                                                                               |
 | 10:15 - 12:00 | Riccardo Murri                  | Tutorial: Python Introduction                                                                           |
-| 12:00 - 12:30 | Riccardo Murri, Tyanko Aleksiev | Science Cloud Introduction                                                                              |
+| 12:00 - 12:30 | Riccardo Murri, Tyanko Aleksiev | Talk: Science Cloud Introduction                                                                              |
 |               |                                 |                                                                                                         |
-| 13:30 - 14:30 | Jessica Oschwald, Franz Liem | Software virtualization:<br>Part 1: NeuroDebian <br>Part 2: BIDS Apps and BIDS Apps on the Science Cloud|
+| 13:30 - 14:30 | Jessica Oschwald, Franz Liem | Talk: Software virtualization:<br>Part 1: NeuroDebian <br>Part 2: BIDS Apps and BIDS Apps on the Science Cloud|
 | 15:00 - 17:00 | Nicolas Langer, Andreas Pedroni | Tutorial: Automagic EEG toolbox                                                                                   |
 |               |                                 |                                                                                                         |
 | **March 3**   |                                 |                                                                                                         |
