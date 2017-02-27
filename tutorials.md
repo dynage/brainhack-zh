@@ -29,6 +29,8 @@ or **simpler and without installing anything** in [your browser](brainhack.cloud
 
 
 ## Nipype Tutorial – How to analyze your MRI data in an easy and flexible way
+Requires [Docker](https://www.docker.com/products/overview)
+(free and without registration).
 
 ## Dynamic functional connectivity for dummies
 Requires Matlab
