@@ -19,8 +19,14 @@ neuroscience community by providing a space for open discussion.
 If you like to learn more about the concept of Brainhack see
 [the paper by Cameron Craddock and others.](http://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x)
 
+## Talk and tutorial material
+**Can be found [here](https://dynage.github.io/brainhack-zh/tutorials).**
+And will be updated throughout the event.
+
 
 ## Schedule
+
+
 | When          | Who                             | What                                                                                                    |
 |---------------|---------------------------------|---------------------------------------------------------------------------------------------------------|
 | **March 2**   |                                 |                                                                                                         |
