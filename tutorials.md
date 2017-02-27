@@ -1,4 +1,4 @@
-![](../images/Brainhack_Zurich_2017.png)
+![](images/Brainhack_Zurich_2017.png)
 # Material for the talks and tutorials (will be updated continously)
 
 ## An Introduction to Python for Scientific Programming
