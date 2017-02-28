@@ -44,7 +44,7 @@ This list will be updated throughout the event.
 |||
 | **March 3**   |                                 |                                                                                                         |
 | 10:00-10:30   | Ronald Sladky, Franz Liem                  | Talk: Visualization<br>Part 1: sweetView: a simple, quick, and powerful viewer for MRI images and SPM results <br> Part 2: Plotting brain images with nilearn |
-| 10:30-11:00   | Claudio Tessone                 | Ignite talk: Networks                                                                                   |
+| 10:30-11:00   | Claudio Tessone                 | Ignite talk: Another perspective to hierarchical networks: Social systems                                                                                  |
 | 11:00-12:00   | | Community hour/unconference session: talks and discussions featuring you |
 |               |                                 |   Lunch at Tibits                                                                                                      |
 | 13:00-15:00   | Michael Notter                  | Tutorial: Nipype Tutorial – How to analyze your MRI data in an easy and flexible way                                                    |
