@@ -20,8 +20,12 @@ If you like to learn more about the concept of Brainhack see
 [the paper by Cameron Craddock and others.](http://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x)
 
 ## Talk and tutorial material
-**Can be found [here](https://dynage.github.io/brainhack-zh/tutorials).**
-And will be updated throughout the event.
+For a detailed description of the talks and tutorial please take a look
+at the [**Abstract Book**]("Booklet_Brainhack_Zurich_2017.pdf").
+
+Links to **slides and other material can be found
+[here](https://dynage.github.io/brainhack-zh/tutorials).**
+This will be updated throughout the event.
 
 
 ## Schedule
@@ -33,15 +37,16 @@ And will be updated throughout the event.
 | 9:30 - 10:15  |                                 | Meet-and-greet and introduction to Brainhack                                                                               |
 | 10:15 - 12:00 | Riccardo Murri                  | Tutorial: An Introduction to Python for Scientific Programming                                                                         |
 | 12:00 - 12:30 | Riccardo Murri, Tyanko Aleksiev | Talk: Science Cloud Introduction                                                                              |
-|               |                                 |                                                                                                         |
+|               |                                 | Pizza                                                                                                        |
 | 13:30 - 14:30 | Jessica Oschwald, Franz Liem | Talk: Software virtualization:<br>Part 1: NeuroDebian <br>Part 2: BIDS Apps and BIDS Apps on the Science Cloud|
 | 15:00 - 17:00 | Nicolas Langer, Andreas Pedroni | Tutorial: Automagic EEG toolbox                                                                                   |
-|               |                                 |                                                                                                         |
+|               |                                 |  Dinner                                                                                                       |
+|||
 | **March 3**   |                                 |                                                                                                         |
 | 10:00-10:30   | Ronald Sladky, Franz Liem                  | Tutorial: Visualization<br>Part 1: sweetView: a simple, quick, and powerful viewer for MRI images and SPM results <br> Part 2: Plotting brain images with nilearn |
 | 10:30-11:00   | Claudio Tessone                 | Ignite talk: Networks                                                                                   |
 | 11:00-12:00   | | Community hour/unconference session: talks and discussions featuring you |
-|               |                                 |                                                                                                         |
+|               |                                 |   Lunch at Tibits                                                                                                      |
 | 13:00-15:00   | Michael Notter                  | Tutorial: Nipype Tutorial – How to analyze your MRI data in an easy and flexible way                                                    |
 | 15:30-17:30   | Anjali Tarun, Younes Farouj, Thomas Bolton    | Tutorial: Dynamic functional connectivity for dummies                                                           |
 
@@ -54,6 +59,8 @@ The event will be held at the
 **University Research Priority Program Dynamics of Healthy Aging at UZH**,
 [Andreasstrasse 15, 8050 Zurich](https://www.google.ch/maps/place/Soziologisches+Institut,+Andreasstrasse+15,+8050+Z%C3%BCrich/@47.4132215,8.5465849,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a83794f152b:0x41c87c334ba6c021!8m2!3d47.4132179!4d8.5487736), 4th floor.
 
+- Thursday: room AND 4.57, start at 9:30
+- Friday: room AND 4.06, start at 10:00
 
 
 
