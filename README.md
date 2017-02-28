@@ -31,7 +31,7 @@ And will be updated throughout the event.
 |---------------|---------------------------------|---------------------------------------------------------------------------------------------------------|
 | **March 2**   |                                 |                                                                                                         |
 | 9:30 - 10:15  |                                 | Meet-and-greet and introduction to Brainhack                                                                               |
-| 10:15 - 12:00 | Riccardo Murri                  | Tutorial: Python Introduction                                                                           |
+| 10:15 - 12:00 | Riccardo Murri                  | Tutorial: An Introduction to Python for Scientific Programming                                                                         |
 | 12:00 - 12:30 | Riccardo Murri, Tyanko Aleksiev | Talk: Science Cloud Introduction                                                                              |
 |               |                                 |                                                                                                         |
 | 13:30 - 14:30 | Jessica Oschwald, Franz Liem | Talk: Software virtualization:<br>Part 1: NeuroDebian <br>Part 2: BIDS Apps and BIDS Apps on the Science Cloud|
@@ -42,8 +42,8 @@ And will be updated throughout the event.
 | 10:30-11:00   | Claudio Tessone                 | Ignite talk: Networks                                                                                   |
 | 11:00-12:00   | | Community hour/unconference session: talks and discussions featuring you |
 |               |                                 |                                                                                                         |
-| 13:00-15:00   | Michael Notter                  | Tutorial: Nipype - neuroimaging pipelines in python                                                     |
-| 15:30-17:30   | Thomas Bolton et al.            | Tutorial: Dynamic functional connectivity                                                               |
+| 13:00-15:00   | Michael Notter                  | Tutorial: Nipype Tutorial – How to analyze your MRI data in an easy and flexible way                                                    |
+| 15:30-17:30   | Anjali Tarun, Younes Farouj, Thomas Bolton    | Tutorial: Dynamic functional connectivity for dummies                                                           |
 
 
 ## Information

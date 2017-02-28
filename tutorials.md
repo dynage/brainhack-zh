@@ -12,11 +12,15 @@ Tutorials can be run via https://brainhack.cloud.s3it.uzh.ch (only requires a mo
 
 
 ### Part 2: BIDS Apps and BIDS Apps on the Science Cloud
-Slides can be found
-[here](https://docs.google.com/presentation/d/1gMB3LyjEx7UtECKnSfrTcW9EqWvfSt6wL6KpJuypFn0/edit?usp=sharing)
+[\[slides\]](https://docs.google.com/presentation/d/1gMB3LyjEx7UtECKnSfrTcW9EqWvfSt6wL6KpJuypFn0/edit?usp=sharing)
 
 ## Automagic EEG toolbox
-Requires Matlab and [Automagic](https://github.com/amirrezaw/automagic).
+[\[example data\]](https://www.dropbox.com/s/ff4lx9m6mj871at/AutomagicData.zip?dl=0)
+
+Requires installing Matlab, [Automagic](https://github.com/amirrezaw/automagic),
+[Microstate EEGlab toolbox](https://github.com/atpoulsen/Microstate-EEGlab-toolbox).
+
+
 ## Visualization
 
 ### Part 1: sweetView. a simple, quick, and powerful viewer for MRI images and SPM results
@@ -33,4 +37,6 @@ Requires [Docker](https://www.docker.com/products/overview)
 (free and without registration).
 
 ## Dynamic functional connectivity for dummies
+[\[slides\]](http://miplab.epfl.ch/media/BrainHack.pdf)
+
 Requires Matlab
