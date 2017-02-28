@@ -43,7 +43,7 @@ This list will be updated throughout the event.
 |               |                                 |  Dinner                                                                                                       |
 |||
 | **March 3**   |                                 |                                                                                                         |
-| 10:00-10:30   | Ronald Sladky, Franz Liem                  | Tutorial: Visualization<br>Part 1: sweetView: a simple, quick, and powerful viewer for MRI images and SPM results <br> Part 2: Plotting brain images with nilearn |
+| 10:00-10:30   | Ronald Sladky, Franz Liem                  | Talk: Visualization<br>Part 1: sweetView: a simple, quick, and powerful viewer for MRI images and SPM results <br> Part 2: Plotting brain images with nilearn |
 | 10:30-11:00   | Claudio Tessone                 | Ignite talk: Networks                                                                                   |
 | 11:00-12:00   | | Community hour/unconference session: talks and discussions featuring you |
 |               |                                 |   Lunch at Tibits                                                                                                      |
