@@ -21,11 +21,11 @@ If you like to learn more about the concept of Brainhack see
 
 ## Talk and tutorial material
 For a detailed description of the talks and tutorial please take a look
-at the [**Abstract Book**](Booklet_Brainhack_Zurich_2017.pdf).
+at the [Abstract Book](https://dynage.github.io/brainhack-zh/Booklet_Brainhack_Zurich_2017.pdf).
 
-Links to **slides and other material can be found
-[here](https://dynage.github.io/brainhack-zh/tutorials).**
-This will be updated throughout the event.
+Links to slides and other material can be found
+[here](https://dynage.github.io/brainhack-zh/tutorials).
+This list will be updated throughout the event.
 
 
 ## Schedule
