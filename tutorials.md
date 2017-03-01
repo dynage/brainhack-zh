@@ -11,7 +11,7 @@ Tutorials can be run via https://brainhack.cloud.s3it.uzh.ch (only requires a mo
 
 ## Software virtualization
 ### Part 1: NeuroDebian - a computing platform for neuro- (and open) science
-[\[slides\]](https://github.com/DynAge/brainhack-zh/blob/master/misc/NeuroDebianBrainhack_jo.pdf)
+[\[slides\]](https://github.com/DynAge/brainhack-zh/raw/master/misc/NeuroDebianBrainhack_jo.pdf)
 
 
 ### Part 2: BIDS Apps and BIDS Apps on the Science Cloud
