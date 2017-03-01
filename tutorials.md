@@ -19,6 +19,8 @@ Tutorials can be run via https://brainhack.cloud.s3it.uzh.ch (only requires a mo
 ## Automagic EEG toolbox
 [\[example data\]](https://www.dropbox.com/s/ff4lx9m6mj871at/AutomagicData.zip?dl=0)
 
+[\[microstate script\]](https://github.com/DynAge/brainhack-zh/blob/master/misc/MicrostateBrainHackSingle.m)
+
 Requires installing Matlab, [Automagic](https://github.com/amirrezaw/automagic),
 [Microstate EEGlab toolbox](https://github.com/atpoulsen/Microstate-EEGlab-toolbox).
 
