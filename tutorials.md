@@ -34,7 +34,7 @@ Requires installing Matlab, [Automagic](https://github.com/amirrezaw/automagic),
 ### Visualization Part 2: Plotting brain images with Nilearn
 The tutorial will be provided as [IPython notebook](https://github.com/fliem/nilearn_tutorials/blob/master/2_0_visualization_of_brain_images_simple.ipynb).
 It can be run locally (which requires installing IPython and Nilearn - I recommend doing this via the [anaconda distribution](http://www.continuum.io/downloads))
-or **simpler and without installing anything** in [your browser](brainhack.cloud.s3it.uzh.ch).
+or **simpler and without installing anything** in [your browser](https://brainhack.cloud.s3it.uzh.ch).
 
 
 ## Nipype Tutorial – How to analyze your MRI data in an easy and flexible way
