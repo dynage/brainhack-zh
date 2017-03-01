@@ -1,8 +1,10 @@
 ![](images/Brainhack_Zurich_2017.png)
 # Material for the talks and tutorials (will be updated continously)
 
-## An Introduction to Python for Scientific Programming
+## What is Brainhack
+[\[slides\]](https://docs.google.com/presentation/d/1bt-sMmYbjCF5kzqH2pUcjRLLpQFtDOrxLRDr5BG6cMk/edit#slide=id.g1cf6b027c2_0_209)
 
+## An Introduction to Python for Scientific Programming
 Tutorials can be run via https://brainhack.cloud.s3it.uzh.ch (only requires a modern web browser -- must support web sockets; any recent version of Firefox or Google Chrome will do; Safari is not guaranteed to work). Login details will be provided during the tutorial.
 
 ## Science Cloud Introduction
