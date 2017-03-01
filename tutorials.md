@@ -40,3 +40,9 @@ Requires [Docker](https://www.docker.com/products/overview)
 [\[slides\]](http://miplab.epfl.ch/media/BrainHack.pdf)
 
 Requires Matlab
+
+
+
+# Brainhack Global 2017 Video Content
+A list of video content from other Brainhack Global sites can be found
+[here](https://hackpad.com/Brainhack-Global-2017-Video-Content-ZP53JJlhGyJ).
