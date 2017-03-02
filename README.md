@@ -49,7 +49,7 @@ This list will be updated throughout the event.
 |               |                                 |   Lunch at Tibits                                                                                                      |
 | 13:00-15:00   | Michael Notter                  | Tutorial: Nipype Tutorial – How to analyze your MRI data in an easy and flexible way                                                    |
 | 15:30-17:30   | Anjali Tarun, Younes Farouj, Thomas Bolton    | Tutorial: Dynamic functional connectivity for dummies                                                           |
-
+|17:30 ||Feedback/closing session|
 
 ## Information
 The admission is free but **registration until February 24 is required**
