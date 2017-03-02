@@ -7,7 +7,10 @@
 ## An Introduction to Python for Scientific Programming
 Tutorials can be run via https://brainhack.cloud.s3it.uzh.ch (only requires a modern web browser -- must support web sockets; any recent version of Firefox or Google Chrome will do; Safari is not guaranteed to work). Login details will be provided during the tutorial.
 
+
 ## Science Cloud Introduction
+
+[\[slides\]](https://github.com/DynAge/brainhack-zh/raw/master/misc/ScienceCloudIntroduction.pdf)
 
 ## Software virtualization
 ### Part 1: NeuroDebian - a computing platform for neuro- (and open) science
