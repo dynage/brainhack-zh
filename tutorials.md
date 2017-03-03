@@ -45,6 +45,8 @@ or **simpler and without installing anything** in [your browser](https://brainha
 Requires [Docker](https://www.docker.com/products/overview)
 (free and without registration).
 
+[material and instructions](https://github.com/miykael/nipype_course)
+
 ## Dynamic functional connectivity for dummies
 [\[slides\]](http://miplab.epfl.ch/media/BrainHack.pdf)
 [\[instructions\]](https://github.com/DynAge/brainhack-zh/blob/master/misc/Brainhack_dynConn_Instructions.pdf)
