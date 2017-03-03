@@ -42,8 +42,12 @@ or **simpler and without installing anything** in [your browser](https://brainha
 
 
 ## Nipype Tutorial – How to analyze your MRI data in an easy and flexible way
-Requires [Docker](https://www.docker.com/products/overview)
-(free and without registration).
+Requires [Docker](https://www.docker.com/products/overview) (free and without registration).
+The notebooks for this tutorial are from the
+[Nipype Tutorial](https://github.com/miykael/nipype_tutorial).
+You can check out all the notebooks online on
+[this homepage](https://miykael.github.io/nipype_tutorial/),
+if you don't want to download and run the whole docker image yourself.
 
 [material and instructions](https://github.com/miykael/nipype_course)
 
