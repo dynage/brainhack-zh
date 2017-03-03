@@ -46,6 +46,10 @@ Requires [Docker](https://www.docker.com/products/overview)
 
 ## Dynamic functional connectivity for dummies
 [\[slides\]](http://miplab.epfl.ch/media/BrainHack.pdf)
+[\[instructions\]](https://github.com/DynAge/brainhack-zh/blob/master/misc/Brainhack_dynConn_Instructions.pdf)
+[\[solutions\]](https://github.com/DynAge/brainhack-zh/blob/master/misc/Brainhack_dynConn_Solutions.pdf)
+
+
 
 Requires Matlab
 
