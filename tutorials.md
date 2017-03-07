@@ -1,4 +1,9 @@
 ![](images/Brainhack_Zurich_2017.png)
+
+# Videos
+Videos of the talks and tutorials can be found
+[here](https://www.youtube.com/watch?v=iUJJzcEVf0k&list=PLYKzqqJI7cuSRN3g6rAQ553O2tJNTq9nx).
+
 # Material for the talks and tutorials (will be updated continously)
 
 ## What is Brainhack
